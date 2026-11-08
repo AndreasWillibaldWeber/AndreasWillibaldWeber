@@ -1,9 +1,4 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AndreasWillibaldWeber/count.svg" />
-</p>
-
-### 👋 Hello World, I'm Andreas!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## 👋 Hello World, I'm Andreas!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 I am a researcher and computer engineer interested in developing secure and safe soft- & hardware.
 
